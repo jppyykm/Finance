@@ -1,2 +1,2 @@
-# hw2
+# Finance related work
 Regression models (Finance)
